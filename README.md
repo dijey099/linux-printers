@@ -36,3 +36,6 @@
    - Rename it if necessary and Set Location (eg. Home). Don't tick Sharing if don't want to share the printer using your PC (Others users on the network can still use it) and click on Continue.
    - Select the appropriate Model (if you are not sure, select one with `(recommended)` option) and click on Add Printer
    - You should now use your printer to print Documents, Photo, ...
+
+
+### Credit dijey099
